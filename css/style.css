@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+}
+#canvas {
+  background: green;
+  width: 600px;
+  height: 600px;
+  position: relative;
+}
+#canvas .divA{
+  background: black;
+  height: 6px;
+  width: 6px;
+  border-radius: 3px;
+  position: absolute;
+}
